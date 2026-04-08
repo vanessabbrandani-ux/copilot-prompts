@@ -1,110 +1,175 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+## Entrevista de Carreira
+- Conduzi uma entrevista estruturada de 7 perguntas para entender seu perfil profissional.  
+- Suas respostas:
+  1. Atrai criar produtos.  
+  2. Está começando do zero.  
+  3. Disponibilidade: 10 horas/semana.  
+  4. Prefere lidar com pessoas.  
+  5. Objetivo: crescer na função atual.  
+  6. Interesse: inteligência artificial.  
+  7. Experiência prévia: 20 anos em gestão de pessoas/processos + formação em psicanálise e saúde mental.
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+## Sugestão de Carreiras
+- Com base nas respostas, sugeri 3 carreiras:
+  1. **Especialista em Inteligência Artificial Aplicada a Pessoas e Processos** (18/20)  
+  2. **Product Manager em Tecnologia** (17/20)  
+  3. **Especialista em People Analytics / Dados de RH** (16/20)
 
-</p>
+## Pesquisa de Mercado
+- Você pediu uma pesquisa de mercado com oportunidades para júnior/estágio em IA.  
+- Respondi com panorama de 2026:
+  - Estágios: Samsung, EloGroup, Ambev, Daniz DHO.  
+  - Vagas Júnior: XP Inc., Dell, Grupo Disal.  
+  - Volume: 136 vagas de estágio em IA no Glassdoor; mais de 1.000 vagas relacionadas no LinkedIn Brasil.
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## Escolha Final
+- Você escolheu seguir a carreira de **Especialista em Inteligência Artificial Aplicada a Pessoas e Processos**.  
+- Transferi para o Agent 2 com os dados:
+  - Carreira escolhida: IA aplicada a pessoas e processos  
+  - Horas semanais: 10  
+  - Experiência: zero  
+  - Objetivo: crescimento  
+  - Preferência: pessoas  
+  - Interesses: inteligência artificial e
+ 
+    # 📒 Registro da Interação - Vanessa & Copilot
+**Data:** 08/04/2026  
+**Local:** São Paulo, Brasil  
+**Usuária:** Vanessa  
+**Assistente:** Copilot  
 
-<br/>
-<br/>
+---
 
-## 💻 Sobre o Projeto
+## 🎯 Contexto Inicial
+Você solicitou que eu atuasse como planejador especializado em criar **roadmaps personalizados de carreira em tecnologia**.  
+A missão incluía: visão do dia a dia, mapa de skills, roadmap de 90 dias, projeto de portfólio, roteiro de entrevistas e trilha DIO recomendada.
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+---
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+## 📥 Dados Recebidos
+- **Carreira escolhida:** Especialista em Inteligência Artificial Aplicada a Pessoas e Processos  
+- **Horas disponíveis por semana:** 10  
+- **Nível de experiência:** Zero (começando do zero)  
+- **Objetivo:** Crescer na função atual  
+- **Preferência:** Pessoas  
+- **Interesses técnicos:** Inteligência Artificial e Psicanálise  
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+## 🧩 Visão do Dia a Dia
+Como é o trabalho de um(a) Especialista em IA aplicada a Pessoas e Processos:
+- Mapear processos organizacionais e identificar pontos de melhoria  
+- Aplicar modelos de IA para análise de comportamento humano e eficiência  
+- Traduzir dados em insights para líderes e equipes  
+- Desenvolver soluções que otimizem rotinas de RH e gestão de pessoas  
+- Monitorar métricas de impacto e ajustar modelos conforme feedback  
 
-- _Exemplo_:
+---
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+## 🧠 Mapa de Skills
+**Core Skills (essenciais):**
+- Fundamentos de Inteligência Artificial e Machine Learning  
+- Estatística aplicada e análise de dados  
+- Modelagem de processos organizacionais  
 
-- [Outros pré-requisitos, se aplicável]
+**Nice-to-Have (complementares):**
+- Psicologia organizacional e psicanálise aplicada  
+- Comunicação interpessoal e storytelling de dados  
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+**Ferramentas e Tecnologias:**
+- Python (scikit-learn, pandas, numpy)  
+- Power BI ou Tableau  
+- Plataformas de IA aplicada a RH (IBM Watson, Azure AI)  
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+---
 
-- [Lista das habilidades principais a serem desenvolvidas]
+## 📅 Roadmap de 90 Dias
+**Adaptado para:** 10 horas/semana  
 
-  - [Subhabilidades relacionadas, se aplicável]
+**Mês 1 - Fundamentos**
+- Semana 1-2: Introdução à IA e estatística básica  
+- Semana 3-4: Python para análise de dados + GitHub  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+**Mês 2 - Prática**
+- Semana 5-6: Algoritmos de classificação e regressão  
+- Semana 7-8: Mapear processos internos e simular melhorias com IA  
 
-## 🎯 Objetivos e Resultados Esperados
+**Mês 3 - Portfólio e Preparação**
+- Semana 9-10: Projeto integrando IA e processos de pessoas  
+- Semana 11-12: Preparar apresentação e revisar conceitos  
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+---
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+## 🚀 Projeto de Portfólio
+**Projeto:** Sistema preditivo de engajamento e turnover  
 
-<!--START_SECTION:footer-->
+**O que fazer:** Criar modelo que analise dados fictícios de funcionários e preveja risco de saída ou queda de engajamento.  
 
-<br />
-<br />
+**Entregáveis:**
+- Dataset tratado e documentado  
+- Modelo preditivo funcional em Python  
+- Dashboard com insights visuais  
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+**Critérios de Aceitação:**
+- Acurácia mínima de 70%  
+- Dashboard claro e interpretável  
+- Documentação explicando aplicação prática  
+
+**Dica:** Use datasets públicos de RH (ex.: Kaggle).  
+
+---
+
+## 💬 Roteiro de Entrevistas
+1. **Você já aplicou IA em algum processo de pessoas?**  
+   - Resposta: Cite o projeto de portfólio, explique problema, solução e impacto.  
+
+2. **Como traduz resultados técnicos para líderes não técnicos?**  
+   - Resposta: Use dashboards, storytelling e exemplos práticos.  
+
+3. **Quais métricas você considera importantes em projetos de IA aplicada a pessoas?**  
+   - Resposta: Engajamento, turnover, satisfação e produtividade.  
+
+4. **Como você lida com vieses em modelos de IA?**  
+   - Resposta: Testa diferentes datasets, valida resultados e busca diversidade.  
+
+5. **Qual é sua motivação para trabalhar com IA aplicada a pessoas?**  
+   - Resposta: Relacione interesse em psicanálise e tecnologia para melhorar ambientes de trabalho.  
+
+---
+
+## 🎓 Trilha DIO Recomendada
+**Trilha:** *Bootcamp Santander IA para Pessoas e Negócios*  
+
+**Por que essa trilha:** Conecta fundamentos de IA com aplicações práticas em negócios e pessoas, oferecendo projetos guiados e networking.  
+
+**Próximos passos:**
+1. Acesse dio.me  
+2. Busque por "Santander IA para Pessoas e Negócios"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+## 📚 Cursos Correlatos para Iniciantes
+- **Centro Paula Souza – Curso gratuito de IA**  
+- **Mackenzie – Fundamentos de IA**  
+- **Senac – IA aplicada a RH**  
+- **Cursos Google/Microsoft gratuitos**  
+- **Fly Educação + Itaú – Mulheres In Tech**  
+
+---
+
+## 📺 Sugestões Gratuitas no YouTube
+- **Curso em Vídeo – Inteligência Artificial (40h)**  
+- **Curso em Vídeo – IA Módulo 01**  
+- **FIAP + Estudonauta (parceria com Curso em Vídeo)**  
+- **Playlists sobre Python e Machine Learning aplicados a pessoas/processos**  
+
+---
+
+# ✨ Conclusão
+Seu plano está pronto e registrado.  
+O mais importante é a **constância**: siga semana a semana, pratique com datasets reais e documente seu aprendizado.  
+
+---
+
